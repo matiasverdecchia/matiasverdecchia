@@ -5,6 +5,7 @@ authors:
   - admin
 publication: "I Encuentro de la Red de Lingüistas en Formación"
 abstract: 
+url_slides: 2020_nombresdesnudos.pdf
 draft: false
 featured: false
 image:
