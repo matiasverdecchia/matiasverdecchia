@@ -1,17 +1,17 @@
 ---
-title: 2020_leiden
-abstract: asd
-location: asd
-date: 2022-05-05T19:01:32.695Z
-date_end: 2022-05-07T03:00:00.000Z
-all_day: false
-event: asd
-event_url: asd
-publishDate: 2022-05-17T19:01:32.716Z
+title: Predicate doubling in Spanish: On how discourse may mimic syntactic copying
+date: 2020-05-16T18:08:24.681Z
+authors:
+  - Carlos Muñoz Pérez
+  - admin
+publication: Comparative Syntax Meetings. Leiden University Center for Linguistics
+abstract: 
 draft: false
 featured: false
+url_slides: 2022-clausaldoubling.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+
