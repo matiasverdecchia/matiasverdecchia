@@ -1,13 +1,12 @@
 ---
-title: 2021_lsrl
-abstract: a
-location: a
-date: 2022-05-17T15:16:49.761Z
-date_end: 2022-05-11T03:00:00.000Z
-all_day: false
-event: a
-event_url: a
-publishDate: 2022-05-17T15:16:49.800Z
+title: Prosodic constraint on wh-extraction from infinitival clauses
+authors:
+  - Carlos Muñoz Pérez
+  - admin
+  - Fernando Carranza
+publication: Linguistics Symposium on Romance Languages (LSRL 51). University of Illinois at Urbana-Champaign
+url_slides: 2021-prosodic.pdf
+date: 2021-05-17T12:57:28.507Z
 draft: false
 featured: false
 image:
