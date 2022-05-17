@@ -1,13 +1,11 @@
 ---
-title: 2019_saocarlos
-abstract: asd
-location: asd
-date: 2022-05-05T19:33:09.229Z
-date_end: 2022-05-12T03:00:00.000Z
-all_day: false
-event: das
-event_url: das
-publishDate: 2022-05-17T19:33:09.246Z
+title: "Predicate doubling asymmetries with factive clauses"
+date: 2019-05-16T18:08:24.681Z
+authors:
+  - admin
+publication: "III Colóquio de Semântica Referencial. Universidade Federal de São Carlos"
+url_slides: 2019_doubling.pdf
+abstract: 
 draft: false
 featured: false
 image:
@@ -15,3 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
