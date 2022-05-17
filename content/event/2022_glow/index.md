@@ -1,21 +1,17 @@
 ---
 title: Information-based “island eﬀects” in Spanish clausal doubling
-abstract: a
-location: Queen Mary University of London
-# date: 2022-05-17T14:29:09.544Z
-# date_end: 2022-05-18T03:00:00.000Z
-all_day: false
-event: GLOW 45
-event_url: https://glowlinguistics.org/45/
-url_slides: 2022-clausaldoubling.pdf
-publishDate: 2022-05-17T14:29:09.569Z
-draft: false
-featured: false
+date: 2022-05-16T18:08:24.681Z
 authors:
   - Carlos Muñoz Pérez
   - admin
+publication: GLOW 45. Queen Mary University of London
+abstract: 
+draft: false
+featured: false
+url_slides: 2022-clausaldoubling.pdf
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
+Hola
