@@ -1,14 +1,14 @@
 ---
 widget: pages
-widget_id: talk
+widget_id: publications
 headless: true
 weight: 10
 title: Talks
-active: true
+subtitle: ""
 content:
   filters:
     folders:
-      - talks
+      - publication
     tag: ""
     category: ""
     publication_type: ""
@@ -22,3 +22,4 @@ content:
 design:
   view: citation
   columns: "2"
+---
