@@ -1,13 +1,10 @@
 ---
-title: 2020_nombres
-abstract: asd
-location: asd
-date: 2022-05-17T19:12:13.163Z
-date_end: 2022-05-21T03:00:00.000Z
-all_day: false
-event: das
-event_url: das
-publishDate: 2022-05-17T19:12:13.182Z
+title: "Nombres desnudos en contextos no verídicos"
+date: 2020-04-16T18:08:24.681Z
+authors:
+  - admin
+publication: "I Encuentro de la Red de Lingüistas en Formación"
+abstract: 
 draft: false
 featured: false
 image:
@@ -15,3 +12,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
