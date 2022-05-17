@@ -8,7 +8,6 @@ publication: Comparative Syntax Meetings. Leiden University Center for Linguisti
 abstract: 
 draft: false
 featured: false
-url_slides: 2022-clausaldoubling.pdf
 image:
   filename: featured
   focal_point: Smart
