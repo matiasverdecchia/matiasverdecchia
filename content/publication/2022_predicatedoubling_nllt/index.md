@@ -1,7 +1,7 @@
 ---
 title: "Predicate doubling in Spanish: On how discourse may mimic syntactic movement"
 authors:
-  - Carlos Muñoz Pérez
+  - [Carlos Muñoz Pérez](https://sites.google.com/site/munozperezc/)
   - admin
 doi: https://doi.org/10.1007/s11049-022-09536-3
 publication: "_Natural Language & Linguistic Theory_"
