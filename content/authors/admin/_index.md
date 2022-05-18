@@ -26,4 +26,4 @@ superuser: true
 highlight_name: true
 ---
 
-I'm a PhD candidate at the [Instituto de Investigaciones Filosóficas](https://iif.conicet.gov.ar/) ([CONICET](https://www.conicet.gov.ar/)).
+I'm a PhD candidate at [Instituto de Investigaciones Filosóficas](https://iif.conicet.gov.ar/) ([CONICET](https://www.conicet.gov.ar/)).
