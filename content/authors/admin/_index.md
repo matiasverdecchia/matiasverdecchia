@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?user=Cn2PcDkAAAAJ&hl=es
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/matiasverdecchia
 # organizations:
   # - name: CONICET
   #  url: https://iif.conicet.gov.ar/
