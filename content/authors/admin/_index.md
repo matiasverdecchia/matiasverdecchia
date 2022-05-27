@@ -2,8 +2,7 @@
 title: Matías Verdecchia
 role: Linguist - PhD candidate at [IIF-CONICET](https://iif.conicet.gov.ar/)
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 
 # interests:
   # - Syntax
   # - Semantics
