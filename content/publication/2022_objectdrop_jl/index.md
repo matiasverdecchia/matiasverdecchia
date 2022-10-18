@@ -3,7 +3,7 @@ title: Object drop in Spanish is not island-sensitive
 authors:
   - admin
 publication: _Journal of Linguistics_
-publication_short: _Journal of Linguistics_ 58(4), 901-906.
+publication_short: _Journal of Linguistics_ 58(4), 901-906
 publication_types:
   - "2"
 doi: https://doi.org/10.1017/S0022226722000202
