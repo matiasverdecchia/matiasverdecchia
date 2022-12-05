@@ -1,5 +1,5 @@
 ---
-title: Doubling phenomena in Spanish: repeating propositions vs repeating predicates
+title: ``Doubling phenomena in Spanish: repeating propositions vs repeating predicates''
 date: 2022-05-16T18:08:24.681Z
 authors:
   - Carlos Muñoz Pérez
