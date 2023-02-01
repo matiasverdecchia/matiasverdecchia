@@ -17,6 +17,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/matiasverdecchia
+  - icon: orcid
+    icon_pack: fas
+    link: https://orcid.org/0000-0002-4427-9336
 # organizations:
   # - name: CONICET
   #  url: https://iif.conicet.gov.ar/
