@@ -30,6 +30,6 @@ highlight_name: true
 
 I'm a PhD candidate at the [Instituto de Investigaciones Filosóficas](https://iif.conicet.gov.ar/) ([CONICET](https://www.conicet.gov.ar/)). I'm currently working on my dissertation, under the supervision of [Andrés Saab](https://sites.google.com/view/andres-saab/p%C3%A1gina-principal/english?authuser=0) and [Carlos Muñoz Pérez](https://sites.google.com/site/munozperezc/). I also work as teaching assistant at [Ciclo Básico Común](https://www.cbc.uba.ar/) ([Universidad de Buenos Aires](https://www.uba.ar/)).
 
-I'm part of the [Buenos Aires Linguistics and Philosophy Group](https://sites.google.com/view/ba-lingphil/home) (BA-LingPhil), a research team focused on the problem of language meaning from a linguistic and philosophical perspective.
+I'm part of [TALK group](https://talk-group.org/), a research team focused on the problem of language meaning from a linguistic and philosophical perspective.
 
 I work primarily on Spanish syntax and semantics. My research interests include island effects, doubling patterns, information structure, and presuppositions, among others.
