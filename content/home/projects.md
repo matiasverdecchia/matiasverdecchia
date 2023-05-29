@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: publications
+widget_id: projects
 headless: true
 weight: 60
-title: Publications
+title: Dissertation
 subtitle: ""
 content:
   filters:
