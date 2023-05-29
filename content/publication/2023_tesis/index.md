@@ -1,5 +1,5 @@
 ---
-title: _Islas fantasma y fallas presuposicionales_
+title: Islas fantasma y fallas presuposicionales
 authors:
   - admin
 publication: PhD dissertation. Universidad de Buenos Aires.
