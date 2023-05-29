@@ -8,7 +8,7 @@ subtitle: ""
 content:
   filters:
     folders:
-      - projects
+      - project
     tag: ""
     category: ""
     publication_type: ""
