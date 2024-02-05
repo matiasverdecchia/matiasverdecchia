@@ -1,5 +1,5 @@
 ---
-title: 2023_doblado_linguistica
+title: La construcción de doblado clausal (o sobre qué significa repetir una oración)
 publication_types:
   - "0"
 draft: false
