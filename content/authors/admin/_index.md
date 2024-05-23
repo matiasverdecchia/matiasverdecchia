@@ -1,6 +1,6 @@
 ---
 title: Matías Verdecchia
-role: Linguist - PhD candidate at [IIF-CONICET](https://iif.conicet.gov.ar/)
+role: Linguist - Postdoctoral researcher at [IIF-CONICET](https://iif.conicet.gov.ar/)
 avatar_filename: avatar.jpg
 bio: 
 # interests:
