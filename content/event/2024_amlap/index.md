@@ -1,5 +1,5 @@
 ---
-title: 2024_amlap
+title: Unaccusative vs unergative subject extraction in Spanish: an acceptability-judgment study
 authors:
   - Marisol Murujosa
   - admin
