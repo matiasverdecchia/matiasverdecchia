@@ -15,6 +15,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-12-05T14:06:26.955Z
-url_source: "http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S2079-312X2023000200075"
 url_pdf: "http://www.scielo.edu.uy/pdf/ling/v39n2/2079-312X-ling-39-02-00075.pdf"
 ---
