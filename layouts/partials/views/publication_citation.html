@@ -1,0 +1,20 @@
+{{ $item := . }}
+
+<div class="view-citation">
+  {{ if $item.Params.url_source }}
+    <a href="{{ $item.Params.url_source }}" target="_blank" rel="noopener">
+      {{ $item.Title }}
+    </a>
+  {{ else }}
+    <a href="{{ $item.RelPermalink }}">
+      {{ $item.Title }}
+    </a>
+  {{ end }}
+
+  <span class="article-metadata">
+    {{ partial "page_metadata_authors" $item }}
+    {{ partial "page_metadata_publication" $item }}
+  </span>
+
+  {{ partial "page_links" $item }}
+</div>
