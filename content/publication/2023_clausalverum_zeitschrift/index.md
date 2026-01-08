@@ -16,4 +16,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-12-06T14:06:26.955Z
+url_pdf: "https://www.degruyterbrill.com/document/doi/10.1515/zfs-2023-2011/pdf?licenseType=open-access"
 ---
