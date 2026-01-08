@@ -7,7 +7,7 @@ authors:
 publication_types:
   - "2"
 publication: _Isogloss. Open Journal of Romance Linguistics_
-publication_short: Open Journal of Romance Linguistics_ 8(4)/7, 1-19.
+publication_short: _Open Journal of Romance Linguistics_ 8(4)/7, 1-19
 doi: https://doi.org/10.5565/rev/isogloss.170
 draft: false
 featured: false
